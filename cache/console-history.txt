@@ -1,0 +1,46 @@
+    value: ethers.utils.parseEther("100"),
+const staking = await Staking.deploy(170538, address, {
+console.log(address)
+ const address = aviral.address;
+const Staking = await ethers.getContractFactory("Staking", owner);
+console.log(aviral.address)
+aviral = await Aviral.deploy();
+const Aviral = await ethers.getContractFactory("Aviral", owner);
+owner = await ethers.getSigners();
+const Aviral = await ethers.getContractFactory("Aviral")
+const aviral = await Aviral.deploy("Aviral", owner)
+const Aviral = await ethers.getContractFactory("Aviral")
+const Aviral = await ethers.getContractFactory()
+const Staking = await ethers.getContractFactory("Staking", owner)
+console.log(aviral.address)
+comsole.log(aviral.address)
+aviral = await Aviral.deploy()
+const Aviral = await ethers.getContractFactory("Aviral", 100) 
+await aviral.name()
+aviral.name()
+const aviral = await Aviral.deploy()
+Aviral.decimals()
+const Aviral = await ethers.getContractFactory('Aviral')
+clear
+cleart
+const Box = await ethers.getContractFactory('Box');
+await aviral.name()
+await aviral.nameking = await ethers.getContractFactory("Aviral", owner)
+owner = await ethers.getSigners();
+const Staking = await ethers.getContractFactory("Aviral", owner)
+const Staking = ethers.getContractFactory("Staking", owner)
+const Staking = ethers.getContractFactory()
+console.log(aviral.address)
+comsole.log(aviral.address)
+aviral = await Aviral.deploy()
+const Aviral = await ethers.getContractFactory("Aviral", 100) 
+await aviral.name()
+aviral.name()
+const aviral = await Aviral.deploy()
+Aviral.decimals()
+const Aviral = await ethers.getContractFactory('Aviral')
+clear
+cleart
+const Box = await ethers.getContractFactory('Box');
+await aviral.name()
+await aviral.name
